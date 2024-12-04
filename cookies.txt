@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vihonet.pixelstrap.com	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.onbWYo1ZWvg	CfDJ8ByCl_0YJdBIi5YjHf2xn4Hma2-BIRX68MWKZOee6eVJlmHnKJ1TbsglXsmo02VUbCbq3bAGjJqQLoZoMiupom6Qc0E-mztw1s4cey1O7MZQVNSfRhZjHuFAWKebTAbM3ENIHEThPU5p2RFz4hJ8780
+vihonet.pixelstrap.com	TRUE	/	FALSE	1999999999	samesite	strict
+
